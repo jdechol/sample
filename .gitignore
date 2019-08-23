@@ -78,3 +78,4 @@ frontend/internationalization/i18n.js
 frontend/internationalization/translations.js
 frontend/dynamic-react-specs.js
 config/karma.config.react.dynamic.js
+/spring/*.pid
